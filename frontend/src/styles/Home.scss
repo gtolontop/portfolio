@@ -85,7 +85,7 @@ $white: #fff;
 
 .home-title--arrow:hover {
   animation: arrow-jitter 0.4s ease-in-out forwards;
-  background-color: rgba(255, 255, 255, 0.1);
+  background-color: var(--token-f5646347-2529-487d-8af1-d99f05c5451c, rgb(10, 10, 10, 0.1));
 }
 
 .home-subtitle {
